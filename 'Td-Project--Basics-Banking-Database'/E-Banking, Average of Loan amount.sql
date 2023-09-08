@@ -1,0 +1,1 @@
+Select Avg(LoanAmount) from Loans
